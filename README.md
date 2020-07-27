@@ -38,7 +38,7 @@ Iterations:
 1. Drop non signifiant P-values
 
 
-The final model achieved a R2 of 0.710 improving by 0.037. While the change is not drastic a better fit of the data was achieved. After splitting the data for training and testing:
+The final model achieved a R2 of 0.710 improving by 0.037. While the change is not drastic a better fit of the data was achieved. The data was then split for training and testing:
 
 * Train RMSE: 132093.1980972533
 * Test RMSE: 127851.15655611489
