@@ -47,8 +47,8 @@ There is only 3.2% difference between the two values indicating the model is not
 
 ## Recommendations 
 1. Search for house that are preferable condition 4 for highest values and lowest price of high-end houses
-2: Look for houses built in the 1960’s
-3: For buyers, close on a house in January or February. For Sellers, aim to sell it during the month of April
+1. Look for houses built in the 1960’s
+1. For buyers, close on a house in January or February. For Sellers, aim to sell it during the month of April
 
 ## Future Research 
 1: Resale value of house based on length of residency
