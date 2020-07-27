@@ -22,3 +22,34 @@ January and February display the lowest average house price making it the best t
 ![Imgur](https://i.imgur.com/KKJOcuT.png)
 
 When looking at houses Seattle and Bellevue have the highest prices with location to the city and waterfront availability driving up prices drastically. Cheaper alternatives are seen largely in southern King County. The graph dots size and color are representative of their cost and all depict a condition 4 house made in the 1960. If the buyer is looking for waterfront availability, Des Moines offer ideal locations for the price. With that if location is an issue, Renton closer to the larger cities like Seattle while still having competitive house prices.
+
+## Muliple Regression
+### Baseline Model 
+![Imgur](https://i.imgur.com/QVwSD6p.png)
+
+After an initial regression analysis, we get a baseline R2 0.673. With that there is a lot of data needed to be manipulated to achieve a better analysis. 
+
+### Final Iteration
+![img]https://i.imgur.com/9O88oaB.png[/img]
+
+Iterations:
+1: Remove outliers 
+2: Create dummy variables 
+3: Drop non signifiant P-values
+
+The final model achieved a R2 of 0.710 improving by 0.037. While the change is not drastic a better fit of the data was achieved. After splitting the data for training and testing:
+
+Train RMSE: 132093.1980972533
+Test RMSE: 127851.15655611489
+ 
+There is only 3.2% difference between the two values indicating the model is not over or underfitted.
+
+## Recommendations 
+1: Search for house that are preferable condition 4 for highest values and lowest price of high-end houses
+2: Look for houses built in the 1960’s
+3: For buyers, close on a house in January or February. For Sellers, aim to sell it during the month of April
+
+## Future Research 
+1: Resale value of house based on length of residency
+2: Cost benefit analysis of common renovations projects
+3: House listing time period based on the year built
