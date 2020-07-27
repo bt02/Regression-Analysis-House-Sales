@@ -8,7 +8,7 @@ Perform a multiple regression analysis of houses sold in King County and optimiz
 
 Between low-end house (condition 1&2) and high-end (condition 3,4, &5) subgroups there is little difference in average sale price. The jump from condition 2 to 3 is a $150,000 change. However, maintenance and overall satisfaction of the recurring buyer would justify buying up to higher-end house. Within the high-end subgroups condition 4 has the lowest price followed closely by condition 3, and would be the target as to not go too overbudget with condition 5
 
-## Best house-built decade.
+## Best building decade.
 ![Imgur](https://i.imgur.com/8I5iw88.png)
 
 The above chart is a specific representation of only houses that meet the condition 4 criteria. Data overtime displays that the housing market is increasing, and new built houses will cost the most. With cost efficiency in mind houses built in the 1960 offer the cheapest price ideally without being culturally out of date.
