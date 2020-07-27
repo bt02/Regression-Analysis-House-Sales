@@ -30,7 +30,7 @@ When looking at houses Seattle and Bellevue have the highest prices with locatio
 After an initial regression analysis, we get a baseline R2 0.673. With that there is a lot of data needed to be manipulated to achieve a better analysis. 
 
 ### Final Iteration
-![img]https://i.imgur.com/9O88oaB.png[/img]
+![Imgur](https://i.imgur.com/9O88oaB.png)
 
 Iterations:
 1. Remove outliers 
@@ -51,6 +51,6 @@ There is only 3.2% difference between the two values indicating the model is not
 1. For buyers, close on a house in January or February. For Sellers, aim to sell it during the month of April
 
 ## Future Research 
-1: Resale value of house based on length of residency
-2: Cost benefit analysis of common renovations projects
-3: House listing time period based on the year built
+1. Resale value of house based on length of residency
+1. Cost benefit analysis of common renovations projects
+1. House listing time period based on the year built
