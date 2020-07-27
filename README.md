@@ -33,14 +33,16 @@ After an initial regression analysis, we get a baseline R2 0.673. With that ther
 ![img]https://i.imgur.com/9O88oaB.png[/img]
 
 Iterations:
-1: Remove outliers 
-2: Create dummy variables 
-3: Drop non signifiant P-values
+<br>
+* Remove outliers 
+* Create dummy variables 
+* Drop non signifiant P-values
+<br>
 
 The final model achieved a R2 of 0.710 improving by 0.037. While the change is not drastic a better fit of the data was achieved. After splitting the data for training and testing:
 
-Train RMSE: 132093.1980972533
-Test RMSE: 127851.15655611489
+* Train RMSE: 132093.1980972533
+* Test RMSE: 127851.15655611489
  
 There is only 3.2% difference between the two values indicating the model is not over or underfitted.
 
