@@ -33,11 +33,10 @@ After an initial regression analysis, we get a baseline R2 0.673. With that ther
 ![img]https://i.imgur.com/9O88oaB.png[/img]
 
 Iterations:
-<br>
-* Remove outliers 
-* Create dummy variables 
-* Drop non signifiant P-values
-<br>
+1. Remove outliers 
+1. Create dummy variables 
+1. Drop non signifiant P-values
+
 
 The final model achieved a R2 of 0.710 improving by 0.037. While the change is not drastic a better fit of the data was achieved. After splitting the data for training and testing:
 
