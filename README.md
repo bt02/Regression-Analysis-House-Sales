@@ -25,12 +25,12 @@ When looking at houses Seattle and Bellevue have the highest prices with locatio
 
 ## Muliple Regression
 ### Baseline Model 
-![Imgur](https://i.imgur.com/QVwSD6p.png)
+![Imgur](https://i.imgur.com/dChwSne.png)
 
 After an initial regression analysis, we get a baseline R2 0.673. With that there is a lot of data needed to be manipulated to achieve a better analysis. 
 
 ### Final Iteration
-![Imgur](https://i.imgur.com/9O88oaB.png)
+![Imgur](https://i.imgur.com/5P2tetG.png)
 
 Iterations:
 1. Remove outliers 
